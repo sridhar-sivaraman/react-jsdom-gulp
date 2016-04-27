@@ -1,8 +1,7 @@
 # react-jsdom-gulp
->>>Unit testing for react modules using gulp, mocha and jsdom,
-Here I have created a checkbox using [React], and wrote a unit test for the same,
-using [Gulp], [Mocha] and [jsdom].
-The main reason for this switch is [Jest] being too slow for running tests.
+>Unit testing for react modules using gulp, mocha and jsdom,
+>Here I have created a checkbox using [React], and wrote a unit test for the same,using [Gulp], [Mocha] and [jsdom].
+>The main reason for this switch is [Jest] being too slow for running tests.
 
 ### Dependencies
 This requires [npm] for running make sure to install the same.
